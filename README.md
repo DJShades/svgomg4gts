@@ -2,9 +2,11 @@
 
 [SVGOMGの本家](https://github.com/jakearchibald/svgomg) の 2019/9/30 のコミットより、precision 0 だとGTSでSVGが崩れてしまうことがあるため、一時的に前のバージョンを公開するためにフォークしました。
 
-# Feature requests
+# 編集者募集中
 
-It's early days for this project, so it's missing important features such as code output view & detailed options for each plugin. [Check out the issues](https://github.com/jakearchibald/svgomg/issues) to see what's planned, or suggest ideas of your own!
+だれかもっと改善しませんか？共同で作業したい方はご連絡ください！
+
+とりあえずビルドスクリプト何とかしたいですね…手動で移動してるので…
 
 # Running locally
 
