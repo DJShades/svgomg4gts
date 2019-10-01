@@ -1,6 +1,6 @@
-# SVGOMG!
+# SVGOMG! for GTS
 
-[SVGOMG](https://jakearchibald.github.io/svgomg/) is **[SVGO](https://github.com/svg/svgo)**'s **M**issing **G**UI, aiming to expose the majority, if not all the configuration options of SVGO.
+[SVGOMGの本家](https://github.com/jakearchibald/svgomg) の 2019/9/30 のコミットより、precision 0 だとGTSでSVGが崩れてしまうことがあるため、一時的に前のバージョンを公開するためにフォークしました。
 
 # Feature requests
 
