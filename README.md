@@ -1,4 +1,4 @@
-# SVGOMG! for GT7
+# SVGOMG! for GTS (and GT7)
 
 [SVGOMGの本家](https://github.com/jakearchibald/svgomg) の 2019/9/30 のコミットより、precision 0 だとGTSでSVGが崩れてしまうことがあるため、一時的に前のバージョンを公開するためにフォークしました。
 
